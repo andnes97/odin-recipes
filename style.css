@@ -1,0 +1,22 @@
+* {
+    background-color: rgb(150, 170, 255);
+}
+
+h1 {
+    font-size: 32px;
+}
+
+h3 {
+    color: rgb(80, 20, 20);
+    font-size: 24px;
+}
+
+h4 {
+    font-size: 24px;
+}
+
+ul,
+ol,
+li {
+    background-color: rgb(130, 180, 255);
+}
