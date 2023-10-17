@@ -1,22 +1,42 @@
-* {
-    background-color: rgb(150, 170, 255);
+body {
+    background: rgb(220, 240, 230);
+    color: rgb(40, 50, 40);
+    font-family: sans-serif;
 }
 
-h1 {
+.card {
+    width: 75%;
+    background: rgb(240, 240, 240);
+    margin: 25px auto;
+    padding: 15px;
+}
+
+.title {
     font-size: 32px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 10px;
+    padding: 5px;
 }
 
-h3 {
-    color: rgb(80, 20, 20);
-    font-size: 24px;
+.link {
+    font-size: 20px;
+    text-align: center;
 }
 
-h4 {
-    font-size: 24px;
+.image {
+    margin-bottom: 5px;
+    align-items: center;
 }
 
-ul,
-ol,
-li {
-    background-color: rgb(130, 180, 255);
+.ingredients,
+.steps {
+    background: rgb(200, 230, 200);
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+.description {
+    margin-bottom: 10px;
+    padding: 5px;
 }
