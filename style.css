@@ -16,7 +16,7 @@ body {
     text-align: center;
     margin-top: 0;
     margin-bottom: 10px;
-    padding: 5px;
+    padding: 10px;
 }
 
 .link {
@@ -26,17 +26,17 @@ body {
 
 .image {
     margin-bottom: 5px;
-    align-items: center;
+    text-align: center;
 }
 
 .ingredients,
 .steps {
     background: rgb(200, 230, 200);
     margin-bottom: 10px;
-    padding: 5px;
+    padding: 10px;
 }
 
 .description {
     margin-bottom: 10px;
-    padding: 5px;
+    padding: 10px;
 }
